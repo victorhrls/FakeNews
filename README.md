@@ -142,3 +142,21 @@ To run the project locally, follow these steps:
    ```bash
    git clone https://github.com/yourusername/FakeNewsDetection.git
    cd FakeNewsDetection
+2. Install required dependencies
+3. Run the jupyter notebookÇ
+
+    ```bash
+    jupyer notebook fakew_news.ipynb
+
+
+🌟 Future Improvements
+	•	Integrating deep learning models such as LSTMs and Transformers.
+	•	Expanding the dataset to improve model generalization.
+	•	Enhancing preprocessing with advanced NLP techniques like named entity recognition (NER).
+
+
+---
+
+    💡 Conclusion
+
+This project demonstrates the application of machine learning and NLP techniques to identify fake news based on textual content. The model provides meaningful insights and can be further improved with additional data and advanced algorithms.
